@@ -396,6 +396,7 @@ POST /api/speak
 # Author
 
 ## Neelesh Adhikari
+## Misbah Subhani
 
 GitHub:
 
